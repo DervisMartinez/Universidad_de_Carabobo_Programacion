@@ -1,0 +1,3 @@
+27372931 Javier Castrillo 200 -300 -100 Deudor
+12345678 Pepe Villegas 500 -234 266 Acreedor
+87654321 Juana Alcázares 2 200 202 Acreedor

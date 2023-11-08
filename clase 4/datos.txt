@@ -1,0 +1,13 @@
+Seccion 1
+5
+Norkys Sánchez 13 14 8 6
+Maria González 14 16 14 17
+Jesús Romero 20 13 15 12
+Jose Torres 12 15 13 18
+Luis Ramirez 13 15 17 12
+Seccion 2
+4
+Karla Gutierrez 12 14 13 15
+Laura Mora 13 16 18 12
+Pedro Sáenz 20 18 19 16
+Alejandro González 16 18 17 14
