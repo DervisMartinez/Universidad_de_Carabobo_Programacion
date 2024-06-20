@@ -1,4 +1,4 @@
-/*Dervis Martinez v-3156326 Programacion 1 */
+/*Dervis Martinez Programacion 1 */
 #include <stdio.h>
 
 
