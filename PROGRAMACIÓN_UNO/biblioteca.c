@@ -1,4 +1,4 @@
-/*Dervis  Martinez v-31456326  PROGRAMACION 1*/
+  PROGRAMACION 1*/
 
 //bibliotecas
 #include <stdio.h>
