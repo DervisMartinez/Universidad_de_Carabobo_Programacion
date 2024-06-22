@@ -1,8 +1,0 @@
-Lijadora 7 57.98
-Martillo 76 11.99
-Serrucho 21 11.00
-Podadora 3 79.50
-Sierra 18 99.99
-Destornillador 106 06.99
-Mazo 11 21.50
-tubo 60 12.990000estria 92 60.500000tubo 90 600.000000alicate 55 70.000000bomba 98 52.000000alicate 55 56.000000tubo 55 65.000000mazo 45 45.000000tubo  55  69.989998mecate  55  85.000000azucar  55  1.500000
